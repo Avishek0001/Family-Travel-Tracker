@@ -1,4 +1,8 @@
 # Family-Travel-Tracker
+* Some Screenshots of the project for better visualization.
+![Screenshot (189)](https://github.com/Avishek0001/Family-Travel-Tracker/assets/92811606/0d16c208-d6fe-4bad-ae47-5044a7a97a7a)
+![Screenshot (190)](https://github.com/Avishek0001/Family-Travel-Tracker/assets/92811606/b5822789-339f-4796-ba65-6002338754a3)
+
 
 ### About Repository
 Family Travel Tracker is mainly developed to track your family adventures and keep the warmest travel memories alive. In this project, U can add new users separately and add the countries where you have been.
@@ -24,5 +28,7 @@ And run the project on
 ### localhost:3000
 
 ## In the front end EJS(Embedded javascript) has been used .
+
+
 
 
