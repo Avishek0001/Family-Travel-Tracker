@@ -16,6 +16,10 @@ And then download the required libraries and packages for this project
 * Postgres Sql (pg)
 * nodemon
 * body-parser
+After downloading all the packages, just write _nodemon index.js_ in the command line.
+And run the project on 
+###localhost:3000
+
 ## In the front end EJS(Embedded javascript) has been used .
 
 
