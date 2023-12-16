@@ -16,13 +16,15 @@ And then type _cd (that particular directory)_ in the command line.
 
 The root folder contains the language-specific folder for code samples. You can browse to a particular directory and access the code sample as per your need
 
-Firstly initialize NPM 
+Firstly initialize NPM (node package manager)
 * _npm init_
+
 And then download the required libraries and packages for this project
 * Express
 * Postgres SQL (pg)
 * nodemon
 * body-parser
+  
 After downloading all the packages, write _nodemon index.js_ in the command line.
 And run the project on 
 ### localhost:3000
